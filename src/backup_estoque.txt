@@ -1,0 +1,10 @@
+=== BACKUP DE ESTOQUE ===
+1;Shampoo Hidratante;25
+2;Condicionador Nutritivo;18
+3;Batom Vermelho;20
+4;Creme Facial FPS 50;5
+5;Máscara Capilar;42
+6;Base Líquida;8
+7;Sérum Vitamina C;15
+9;Demaquilante;30
+10;Blush Rosé;2
